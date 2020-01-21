@@ -4,7 +4,7 @@
 
 ## 获取方法
 
-如果要获取`img/jpg.jpg`图片，访问链接为：
+如果要获取 `img/jpg.jpg` 图片，访问链接为：
 ```
 https://github.com/kouyt5/cc/blob/master/img/jpg.jpg?raw=true
 ```
